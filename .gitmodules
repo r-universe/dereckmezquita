@@ -5,3 +5,6 @@
 [submodule "interface"]
 	path = interface
 	url = https://github.com/dereckmezquita/interface
+[submodule "stenographer"]
+	path = stenographer
+	url = https://github.com/dereckmezquita/stenographer
